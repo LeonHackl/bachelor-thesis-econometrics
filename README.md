@@ -1,1 +1,1 @@
-# Thesis: Das lineare Regressionsmodell und seine Anwendungen
+# Das lineare Regressionsmodell und seine Anwendungen
