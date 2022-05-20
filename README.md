@@ -1,2 +1,2 @@
-## Bachelor Thesis - Leon Hackl
-# Das lineare Regressionsmodell und seine Anwendungen
+### Bachelor Thesis - Leon Hackl
+## Empirische Analyse der individuellen Versicherungsausgaben
